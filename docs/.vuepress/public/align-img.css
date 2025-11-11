@@ -1,0 +1,6 @@
+img[src*='#screenshot'] {
+    float: left;
+    max-width: 30%;
+    height: auto;
+    padding-right: 2rem;
+}
